@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6d09142-3997-40b8-a59f-78deaf180ad8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/animal/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/animal/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/animal/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/animal/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/animal/Tuna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/employee/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/employee/Salesperson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/employee/SoftwareEngineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/employee/SupportStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/shape/Parallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/shape/Trapezoid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/shape/Triangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2h4wDDJFnHFnZLDIGudeff0Qhkp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.SupportStaffTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SupportStaffTest.testConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.employee" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JavaInheritance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JavaInheritance" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6d09142-3997-40b8-a59f-78deaf180ad8" name="Changes" comment="" />
+      <created>1716866538317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716866538317</updated>
+    </task>
+    <servers />
+  </component>
+</project>
